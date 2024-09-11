@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+ddocument.addEventListener('DOMContentLoaded', () => {
     const formulario = document.getElementById('formulario-contacto');
 
     formulario.addEventListener('submit', (event) => {
